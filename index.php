@@ -2,7 +2,7 @@
 if(isset($_POST['name'])){
 
 
-  $server = "localhost:3325";
+  $server = "localhost";
   $username = "root";
   $password ="";
   $dbname ="register";
