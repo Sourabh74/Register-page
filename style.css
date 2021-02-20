@@ -1,0 +1,40 @@
+body{
+    background-image: url(back.JPG);
+     
+ }
+ .count
+ {
+     width: 40%;
+     background-color: rgb(242, 230, 255);
+     border: 4px solid white;
+     border-radius: 9px;
+    
+   
+ }
+ h1{
+     color: white;
+     text-align: center;
+ }
+ 
+ input,textarea{
+     border: 3px solid black;
+     border-radius: 99px;
+     width: 90%;
+     padding: 9px;
+     
+ }
+ .count button {
+     background-color: #4CAF50; /* Green */
+     border: none;
+     color: white;
+     padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     border-radius: 99px;
+}
+.line {
+    font-size: 60%;
+    background-color: red;
+}
